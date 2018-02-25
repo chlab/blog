@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               chlab
+tagline:             'very irregular posts about web development'
+description:         'very irregular posts about web development'
+url:                 https://chlab.ch
+baseurl:             ''
+paginate:            2
+gems:                [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Christof Leuenberger
+  url:               https://github.com/chlab
+  email:             mail@chlab.ch
+
+# Custom vars
+version:             1.0.0
