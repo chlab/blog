@@ -8,7 +8,7 @@ title:               chlab
 tagline:             'very irregular posts about web development'
 description:         'very irregular posts about web development'
 url:                 https://chlab.ch
-baseurl:             ''
+baseurl:             'https://chlab.github.io/blog'
 paginate:            2
 gems:                [jekyll-paginate]
 
